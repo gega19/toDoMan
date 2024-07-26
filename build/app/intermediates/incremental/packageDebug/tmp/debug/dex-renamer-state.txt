@@ -1,0 +1,4 @@
+#Fri Jul 26 16:50:25 VET 2024
+base.0=/Users/macbook/Desktop/Aprendizaje/toDoMan/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

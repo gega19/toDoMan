@@ -1,0 +1,13 @@
+com.example.todoman.app-jetified-window-1.0.0-beta04-0 /Users/macbook/.gradle/caches/transforms-3/032f4dff274e516110d9363a9793a3e3/transformed/jetified-window-1.0.0-beta04/res
+com.example.todoman.app-jetified-window-java-1.0.0-beta04-1 /Users/macbook/.gradle/caches/transforms-3/142c24f2530665bb6deb4123ab140714/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.todoman.app-core-1.6.0-2 /Users/macbook/.gradle/caches/transforms-3/2579a7de00054bf46a8dbc332552f622/transformed/core-1.6.0/res
+com.example.todoman.app-jetified-annotation-experimental-1.1.0-3 /Users/macbook/.gradle/caches/transforms-3/3f96ca76068ab400b494bc7d541ee256/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.todoman.app-debug-4 /Users/macbook/Desktop/Aprendizaje/toDoMan/android/app/src/debug/res
+com.example.todoman.app-main-5 /Users/macbook/Desktop/Aprendizaje/toDoMan/android/app/src/main/res
+com.example.todoman.app-pngs-6 /Users/macbook/Desktop/Aprendizaje/toDoMan/build/app/generated/res/pngs/debug
+com.example.todoman.app-resValues-7 /Users/macbook/Desktop/Aprendizaje/toDoMan/build/app/generated/res/resValues/debug
+com.example.todoman.app-rs-8 /Users/macbook/Desktop/Aprendizaje/toDoMan/build/app/generated/res/rs/debug
+com.example.todoman.app-mergeDebugResources-9 /Users/macbook/Desktop/Aprendizaje/toDoMan/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.todoman.app-mergeDebugResources-10 /Users/macbook/Desktop/Aprendizaje/toDoMan/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.todoman.app-merged_res-11 /Users/macbook/Desktop/Aprendizaje/toDoMan/build/app/intermediates/merged_res/debug
+com.example.todoman.app-packaged_res-12 /Users/macbook/Desktop/Aprendizaje/toDoMan/build/shared_preferences_android/intermediates/packaged_res/debug
